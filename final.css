@@ -1,0 +1,103 @@
+body{
+    background: linear-gradient(to right, #38ef7d, #11998e);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bground{
+    background-color: white;
+    width: 350px;
+    height: 500px;
+    border-radius: 20px;
+    margin: 50px auto auto;
+}
+#con{
+    background: linear-gradient(to right, #1dd1a1, #1abc9c);
+    height: 250px;
+    width: 325px;
+    border-radius: 10px;
+    position: relative;
+    top: -40px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.container{
+    margin-top: 100px;
+}
+#user{
+    margin-top: 20px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+ul li{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #11998e;
+}
+ul li .fas {
+    /* display: inline-block; */
+    width: 50px;
+}
+.list{
+    margin-left: -120px;
+    margin-top: -60px;
+}
+.number{
+    margin-bottom: -20px;
+}
+.phone{
+    font-size: 40px;
+}
+.mail1{
+    padding-top: 40px;
+}
+.mail2{
+    margin-top: -20px;
+}
+.fa-envelope{
+    padding-top: 40px;
+    font-size: 30px;
+    margin-left: -10px;
+}
+.web1{
+    margin-top: 60px;
+    margin-bottom: -20px;
+}
+.fa-globe-americas{
+    font-size: 30px;
+    margin-left: -50px;
+    padding-top: 40px;
+}
+.container2{
+    background: linear-gradient(to right, #1dd1a1, #1abc9c);
+    position: relative;
+    width: 325px;
+    height: 90px;
+    margin-left: 12.5px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.last{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.last .fab{
+    padding-right: 25px;
+}
+.face:hover{
+    color: white;
+}
+.twitt:hover{
+    color: white;
+}
+.insta:hover{
+    color: white;
+}
+.link:hover{
+    color: white;
+}
